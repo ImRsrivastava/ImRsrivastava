@@ -5,7 +5,7 @@
 
 🌱 I’m Currently expanding my expertise in **production-grade Kubernetes** and **advanced AWS services** to design scalable, secure, and highly available cloud infrastructures.
 
-💬 Ask me about **Laravel, PHP, MySQL, Node.js, FastAPI, Ansible, Terraform, Docker, Linux, CI/CD pipelines**, and **backend architecture**
+💬 Ask me about **Laravel, PHP, MySQL, PostgreSql, FastAPI, Ansible, Terraform, Docker, Linux, CI/CD pipelines**, and **backend architecture**
 
 ⚡ Fun fact: I love turning complex, manual server setups into **clean, repeatable, one-command deployments** 🚀
 
