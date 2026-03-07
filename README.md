@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rishabh%20Srivastava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h3 align="center">
+Backend Engineer | Laravel | FastAPI | Node.js | AWS | Terraform | Docker
+</h3>
+
+<p align="center">
+Building Secure • Scalable • Production-Ready Backend Systems
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs,docker,aws,terraform,ansible,mysql,postgres,linux,git" />
+</p>
+
+---
+
 # 💫 About Me:
 🔭 Backend & infrastructure-focused developer building secure, scalable applications using **Laravel, Node.js, and Python FastAPI**. I specialize in automating deployments and server configurations with **Ansible and Terraform**.
 
