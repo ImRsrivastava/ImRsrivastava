@@ -1,15 +1,26 @@
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rishabh%20Srivastava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rishabh%20Srivastava&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="center">
-Backend Engineer | Laravel | FastAPI | Node.js | AWS | Terraform | Docker
-</h3>
-
+<!-- Animated Typing Intro -->
 <p align="center">
-Building Secure • Scalable • Production-Ready Backend Systems
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Laravel+%7C+FastAPI+%7C+Node.js;Cloud+%26+Infrastructure+Automation;AWS+%7C+Terraform+%7C+Docker+%7C+Ansible" />
 </p>
 
+<!-- Tagline -->
+<p align="center">
+Building Secure • Scalable • Production-Ready Backend Systems 🚀
+</p>
+
+<!-- Profile Stats Badges -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ImRsrivastava&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ImRsrivastava?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/ImRsrivastava?style=for-the-badge"/>
+</p>
+
+<!-- Tech Icons -->
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs,docker,aws,terraform,ansible,mysql,postgres,linux,git" />
 </p>
