@@ -1,16 +1,16 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:6b7c85,100:8fa7b5&text=Rishabh%20Srivastava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:1f2937,100:4b5563&text=Rishabh%20Srivastava&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 </p>
 
 <!-- Title -->
-<h2 align="center">
-Backend Engineer | Laravel | FastAPI | Node.js | AWS | Terraform | Docker
-</h2>
+<h3 align="center">
+Backend Engineer • Laravel • FastAPI • Node.js • AWS • Terraform • Docker
+</h3>
 
 <!-- Subtitle -->
 <p align="center">
-Building Secure • Scalable • Production-Ready Backend Systems
+Building Secure, Scalable & Production-Ready Backend Systems
 </p>
 
 <!-- Tech Icons -->
